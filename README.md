@@ -1,16 +1,22 @@
-# travello_app
+ Travello App ✈️🌍
 
-A new Flutter project.
+Travello App is a modern Flutter travel application designed to help users explore destinations, view trip details, and book their adventures easily. The app provides a clean UI and a smooth user experience optimized for mobile devices.
 
-## Getting Started
+✨ Features
 
-This project is a starting point for a Flutter application.
+- 🗺️ Discover popular travel destinations
+- 📸 Browse high-quality images
+- 📋 View trip details including price, duration, and description
+- ❤️ Save favorite destinations
+- 🔍 Search functionality
+- 🔐 Login/Register (if implemented)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 🚀 Getting Started
+
+To run the project locally:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Aliaa-Sabek/tarvello_app.git
